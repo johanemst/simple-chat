@@ -1,2 +1,2 @@
-# simple-chat
-Simple chat using react and node.js socket.io
+# fluxocket-chat
+Simple chat app built using fluxocket (https://github.com/abhinavrastogi/fluxocket)
